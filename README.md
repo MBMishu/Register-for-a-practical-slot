@@ -19,7 +19,7 @@ database, will display the list of students who are registered in that section t
 ##
 
 <p align="center">
-  <img src="https://mbmishu.github.io/Register-for-a-practical-slot/main/1.png" width="15%">
+  <img src="https://github.com/MBMishu/Register-for-a-practical-slot/blob/main/1.png" width="15%">
   <h1 align="center">
     Slot Booking
   </h1>
@@ -34,7 +34,7 @@ database, will display the list of students who are registered in that section t
 &nbsp; 
 <br>
 
-<img src="https://mbmishu.github.io/Register-for-a-practical-slot/main/2.png">
+<img src="https://github.com/MBMishu/Register-for-a-practical-slot/blob/main/2.png">
 
 </td>
 </table> 
